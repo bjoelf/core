@@ -189,6 +189,7 @@ FLOWS = [
     "mutesync",
     "myq",
     "mysensors",
+    "myuplink",
     "nam",
     "nanoleaf",
     "neato",
